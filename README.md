@@ -2,7 +2,7 @@
 ## Script setup tutorial has 2 English and Farsi parts
 ### آموزش راه اندازی اسکریپت دارای ۲ بخش فارسی و اینگلیسی 
 
-#English part Screapt
+# English part Screapt
 
 Has 40 components to build or update (code) and (methods) of filtering
 
